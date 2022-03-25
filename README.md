@@ -1,4 +1,4 @@
-- Hello World✌🏿 My name is Lunden. Im a beginner developer out of North Carolina.
+- Hello World✌🏿 My name is Lunden. Im a beginner self-taught developer out of North Carolina.
 
 - Ive been programming for about a week and I really wanna jump head first into this thing. Im planning on learning 
    html, css, js, python, java, c, c++, and c# in that order if possible. Then maybe SQL if the need arises.
